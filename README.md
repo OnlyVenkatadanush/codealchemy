@@ -13,7 +13,7 @@
 </p> 
 <p align="center"> 
   <a href="YOUR_DEPLOYED_APP_LINK" target="_blank"> <img src="https://img.shields.io/badge/Launch%20App-Click%20Here-critical?style=for-the-badge&logo=streamlit&logoColor=white" /> </a> &nbsp; 
-  <a href="YOUR_GITHUB_REPO_LINK" target="_blank"> <img src="https://img.shields.io/badge/GitHub-Repo-333?style=for-the-badge&logo=github" /> </a> 
+  <a href="https://github.com/OnlyVenkatadanush/codealchemy" target="_blank"> <img src="https://img.shields.io/badge/GitHub-Repo-333?style=for-the-badge&logo=github" /> </a> 
 </p>
 
 ## 🔮 What is CodeAlchemy?
@@ -89,7 +89,7 @@ No data or code is stored permanently.
 
 ## 💡 Future Plans
 
-- 🧠 Integrate GPT-4.5 for even smarter translations
+- 🧠 Integrate Good models for even smarter translations
 
 - 🔗 Add support for multi-file projects
 
