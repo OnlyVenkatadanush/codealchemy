@@ -12,7 +12,7 @@
   Turn your code into gold — instantly translate, explain, and master programming languages with the power of AI.
 </p> 
 <p align="center"> 
-  <a href="YOUR_DEPLOYED_APP_LINK" target="_blank"> <img src="https://img.shields.io/badge/Launch%20App-Click%20Here-critical?style=for-the-badge&logo=streamlit&logoColor=white" /> </a> &nbsp; 
+  <a href="https://codealchemy.streamlit.app/" target="_blank"> <img src="https://img.shields.io/badge/Launch%20App-Click%20Here-critical?style=for-the-badge&logo=streamlit&logoColor=white" /> </a> &nbsp; 
   <a href="https://github.com/OnlyVenkatadanush/codealchemy" target="_blank"> <img src="https://img.shields.io/badge/GitHub-Repo-333?style=for-the-badge&logo=github" /> </a> 
 </p>
 
