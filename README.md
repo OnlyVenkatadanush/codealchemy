@@ -23,7 +23,7 @@ CodeAlchemy is your AI-powered code translation and explanation tool. Whether yo
 
 ## 🚀 Features
 
-- **🧙‍♂️ Code Translator ** — Convert code between 30+ programming languages effortlessly.
+- **🧙‍♂️ Code Translator** — Convert code between 30+ programming languages effortlessly.
 
 - **🔍 Code Explainer** — Get clear, beginner-friendly explanations for any translated code.
 
