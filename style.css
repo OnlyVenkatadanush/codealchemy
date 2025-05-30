@@ -1,0 +1,24 @@
+.navbar{
+    background: linear-gradient(90deg, 
+  rgba(157, 22, 230, 0.6), 
+  rgba(64, 34, 215, 0.6), 
+  rgba(36, 25, 150, 0.6), 
+  rgba(40, 19, 230, 0.6), 
+  rgba(19, 54, 206, 0.6)
+);
+    height:50px;
+    align-items: center;
+}
+.nav-elem{
+    font-size: 40px;
+    font-weight: 1300;
+}
+body{
+    background: linear-gradient(90deg, 
+  rgba(157, 22, 230, 0.6), 
+  rgba(64, 34, 215, 0.6), 
+  rgba(36, 25, 150, 0.6), 
+  rgba(40, 19, 230, 0.6), 
+  rgba(19, 54, 206, 0.6)
+);
+}
